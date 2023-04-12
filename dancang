@@ -1,13 +1,6 @@
  {
     "urls": [
-        {
-            "url": "https://agit.ai/kuku/kot/raw/branch/master/0802.txt",
-            "name": "💖kuz源"
-        },
-        {
-            "url": "https://agit.ai/kuku/kot/raw/branch/master/tvheji.txt",
-            "name": "💖电视合集"
-        },
+        
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",    
             "name": "💖巧儿线路"
