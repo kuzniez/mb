@@ -2,6 +2,18 @@
     "urls": [
         
         {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",    
+            "name": "💖荷城茶秀"
+        },
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "🐼FongMi源"
+        },
+        {
+            "url": "https://framagit.org/live86/TVRule/-/raw/main/XYQTVBox.json ",
+            "name": "💖香佬"
+        },
+        {
             "url": "http://pandown.pro/tvbox/tvbox.json",    
             "name": "💖巧儿线路"
         },
@@ -34,10 +46,6 @@
             "name": "💖多多V线路"
         },
         
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",    
-            "name": "💖荷城茶秀"
-        },
         {
             "url": "https://wds.ecsxs.com/224066.json",    
             "name": "💖金多宝"
