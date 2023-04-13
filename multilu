@@ -1,7 +1,7 @@
 {
 "storeHouse": [
-{"sourceName":"kuku仓库","sourceUrl":"https://agit.ai/kuku/kot/raw/branch/master/py/update_yuan"},
-{"sourceName":"经典JS","sourceUrl":"https://agit.ai/kuku/kot/raw/branch/master/py/py/jingdian"},
+{"sourceName":"kuku仓库","sourceUrl":"https://raw.iqiq.io/kuzniez/mb/main/update_yuan"},
+{"sourceName":"经典JS","sourceUrl":"https://raw.iqiq.io/kuzniez/mb/main/jingdian"},
 {"sourceName": "🧡安卓哥1号仓","sourceUrl":"https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
 {"sourceName": "🧡安卓哥2号仓","sourceUrl":"https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
 {"sourceName": "🧡安卓哥3号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/3"},
@@ -28,7 +28,7 @@
 {"sourceName":"🌙dd jar资源库","sourceUrl":"https://notabug.org/kuzniez/kot/raw/master/ysc/jar%e8%b5%84%e6%ba%90%e5%ba%93.txt"},
 {"sourceName":"🌙dd js资源库","sourceUrl":"https://notabug.org/kuzniez/kot/src/master/ysc/js%e4%bd%93%e9%aa%8c%e5%ba%93.txt"},
 {"sourceName":"63215仓库","sourceUrl":"https://agit.ai/kuku/kot/raw/branch/master/py/py/63215"},
-{"sourceName":"DL仓库","sourceUrl":"https://agit.ai/kuku/kot/raw/branch/master/py/py/update_yuan1"},
+{"sourceName":"DL仓库","sourceUrl":"https://raw.iqiq.io/kuzniez/mb/main/update_yuan1"},
 {"sourceName":"66666 0.仓库","sourceUrl":"https://agit.ai/66666/mao/raw/branch/master/00/xx/0."},
 {"sourceName":"66666 168jpg号仓","sourceUrl":"https://agit.ai/66666/mao/raw/branch/master/00/xx/0.jpg"},
 {"sourceName":"66666 upyuan仓","sourceUrl":"https://agit.ai/66666/mao/raw/branch/master/00/xx/0update_yuan.jpg"},
@@ -46,7 +46,7 @@
 { "sourceName": "👒嘟嘟仓库", "sourceUrl": "https://agit.ai/hu/hcr/raw/commit/beb954f1ae6828ab8dc86b4059cf98e6378bce3b/duo.txt" }, 
 { "sourceName": "🌸超级仓库", "sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt" }, 
 {"sourceName":"76仓库","sourceUrl":"https://agit.ai/kuku/kot/raw/branch/master/py/dancangjiekou"},
-{ "sourceName": "🌸chvetei", "sourceUrl": "https://agit.ai/kuku/kot/raw/branch/master/py/chivetei" }, 
+{ "sourceName": "🌸chvetei", "sourceUrl": "https://raw.iqiq.io/kuzniez/mb/main/chivetei" }, 
 {"sourceName":"☁️云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
 {"sourceName":"☁️云星②号仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/极速仓库.json"},
 {"sourceName":"☁️云星③号仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/缓冲仓库.json"},
