@@ -1,12 +1,22 @@
- {
+  {
     "urls": [
         {
-            "url": "https://raw.iqiq.io/kuzniez/mb/main/0802.bmp",
+            "url": "https://agit.ai/kuku/kot/raw/branch/master/0802.txt",
             "name": "💖kuz源"
         },
         {
-            "url": "https://raw.iqiq.io/kuzniez/mb/main/tvheji.txt",
+            "url": "https://agit.ai/kuku/kot/raw/branch/master/tvheji.txt",
             "name": "💖电视合集"
+        },
+         
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",    
+            "name": "💖荷城茶秀"
+        },
+         
+        {
+            "url": "https://agit.ai/kuku/drpy/raw/branch/master/js.json",    
+            "name": "💖道长drpy"
         },
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",    
@@ -40,11 +50,7 @@
             "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",    
             "name": "💖多多V线路"
         },
-        
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",    
-            "name": "💖荷城茶秀"
-        },
+       
         {
             "url": "https://wds.ecsxs.com/224066.json",    
             "name": "💖金多宝"
